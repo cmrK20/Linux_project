@@ -20,7 +20,7 @@ To run the project, follow these steps:
 
 1. Clone the Git repository to your local machine:
 
-git clone https://github.com/your-username/ethereum-price-dashboard.git
+git clone https://github.com/cmrK20/ethereum-price-dashboard.git
 
 2. Navigate to the project directory:
 
