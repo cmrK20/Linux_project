@@ -57,7 +57,4 @@ The daily report is displayed below the Ethereum price time series graph on the 
 - Be careful to prevent any cost from your cloud provider if you are running the project on a hosted virtual machine.
 - The project data and logs will be stored on the instance's local storage, so be sure to back up any important data regularly.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-Note: For the best visualization of the Ethereum price time series, please press the 'Autoscale' button located at the top right corner of the graph. This will adjust the y-axis scale dynamically based on the range of data currently visible on the graph.
+# Note: For the best visualization of the Ethereum price time series, please press the 'Autoscale' button located at the top right corner of the graph. This will adjust the y-axis scale dynamically based on the range of data currently visible on the graph.
