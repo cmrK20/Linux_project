@@ -1,0 +1,5 @@
+# Ignore files containing sensitive information
+aapl_stock_price.txt
+dashboard.html
+daily_report.txt
+graph.png
