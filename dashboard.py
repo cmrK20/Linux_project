@@ -1,7 +1,7 @@
 import pandas as pd
 import dash
-import dash_core_components as dcc
-import dash_html_components as html
+from dash import dcc
+from dash import html
 from dash.dependencies import Input, Output
 import plotly.express as px
 
@@ -40,6 +40,6 @@ def update_dashboard(_):
 
     return fig, report
 
-
 if __name__ == '__main__':
     app.run_server(host='0.0.0.0', port=8050)
+
