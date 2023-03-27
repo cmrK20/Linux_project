@@ -37,7 +37,7 @@ This script uses `curl` to scrape the current price of Ethereum from the CoinDes
 5. Run the `dashboard.py` script to start the dashboard:
 
 
-This script starts a local server that listens for incoming HTTP requests on port 8050. You can access the dashboard by opening a web browser and navigating to `http://localhost:8050`.
+This script starts a local server that listens for incoming HTTP requests on port 8050. You can access the dashboard by opening a web browser and navigating to `http://13.53.44.105:8050`.
 
 **Note:** For the best visualization of the Ethereum price time series, please press the 'Autoscale' button located at the top right corner of the graph. This will adjust the y-axis scale dynamically based on the range of data currently visible on the graph.
 
@@ -55,6 +55,5 @@ The daily report is displayed below the Ethereum price time series graph on the 
 
 - This project is intended for educational purposes only and should not be used for financial or investment advice.
 - Be careful to prevent any cost from your cloud provider if you are running the project on a hosted virtual machine.
-- The project data and logs will be stored on the instance's local storage, so be sure to back up any important data regularly.
+- Hope this will be helpfull
 
-# Note: For the best visualization of the Ethereum price time series, please press the 'Autoscale' button located at the top right corner of the graph. This will adjust the y-axis scale dynamically based on the range of data currently visible on the graph.
